@@ -1,0 +1,23 @@
+H2{
+    color: rgb(6, 113, 56);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: initial;
+    font-weight: 900;
+    }
+    H5{  
+    color: rgb(139, 18, 24);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: 900;
+    }
+    body{ 
+    border: 30px solid rgb(163, 255, 182) ;
+    padding: 78px;
+    width: 300px;
+    background-color: rgb(228, 255, 228);
+    }
+    img{
+width: 200px;
+} 
+    
+
